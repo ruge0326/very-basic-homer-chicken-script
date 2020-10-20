@@ -14,4 +14,7 @@ I love my Instagram Account but I follow too many account but I want to fix that
 ### Very basic
 
 1. Go to login to your IG.
+2. Go to https://www.instagram.com/<username>/following/
+
+
 
